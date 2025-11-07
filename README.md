@@ -1,16 +1,20 @@
-# weather
+# 🌤️ Weather App Flutter
 
-A new Flutter project.
+Простое погодное приложение на Flutter с использованием реальных API.
 
-## Getting Started
+##  Особенности
+- Поиск погоды по городам мира
+- Автоматическое определение координат
+- Адаптивный дизайн под температуру
+- Поддержка русского языка
 
-This project is a starting point for a Flutter application.
+##  Технологии
+- Flutter/Dart
+- Open-Meteo API
+- Nominatim Geocoding
+- HTTP клиент
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Скрины
+[(SimulatorScreenshot1.png)] 
+[(SimulatorScreenshot2.png)]
+[(SimulatorScreenshot3.png)]
