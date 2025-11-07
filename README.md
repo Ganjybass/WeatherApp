@@ -15,6 +15,6 @@
 - HTTP клиент
 
 ## Скрины
-[(SimulatorScreenshot1.png)] 
-[(SimulatorScreenshot2.png)]
-[(SimulatorScreenshot3.png)]
+[(assets/SimulatorScreenshot1.png)] 
+[(assets/SimulatorScreenshot2.png)]
+[(assets/SimulatorScreenshot3.png)]
